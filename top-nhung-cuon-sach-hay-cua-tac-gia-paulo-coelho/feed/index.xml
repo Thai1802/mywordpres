@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/top-nhung-cuon-sach-hay-cua-tac-gia-paulo-coelho/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thai1802.github.io/mywordpres/top-nhung-cuon-sach-hay-cua-tac-gia-paulo-coelho/</link>
 	<description>Chào mừng các bạn </description>
-	<lastBuildDate>Tue, 31 Aug 2021 19:51:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Sep 2021 14:11:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>
